@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mdi/js": "^7.2.96",
+    "bustion-ui": "^0.0.0",
     "vue": "^3.3.4",
     "vue-router": "4"
   },
